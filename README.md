@@ -4,7 +4,7 @@
 
 ## 截图 Screenshot
 
-![[20211214143331.png]]
+![[assets/20211214143331.png]]
 
 ## 目录 Directories
 
