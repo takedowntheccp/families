@@ -4,7 +4,9 @@
 
 ## 截图 Screenshot
 
-![](assets/20211214145118.png)
+![习近平](assets/20211214145809.png)
+
+![习仲勋](assets/20211214145118.png)
 
 ## 目录 Directories
 
