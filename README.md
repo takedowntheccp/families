@@ -2,11 +2,11 @@
 
 本项目交互式地展示中共内部各家族、个人的所有相关信息。所有资讯收集自互联网，欢迎补充和修正。This project interactively shows all relevant information about various families and individuals within the Chinese Communist Party. All information is collected from the Internet, additions and corrections are welcome.
 
-## 截图 Screenshot
+## 全局图 Overview
 
-![习近平](assets/20211214145809.png)
+持续更新中
 
-![习仲勋](assets/20211214145118.png)
+![全局图](assets/20211221134225.png)
 
 ## 目录 Directories
 
