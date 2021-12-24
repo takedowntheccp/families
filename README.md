@@ -5,8 +5,7 @@
 ## 全局图 Overview
 
 持续更新中
-
-![全局图](assets/20211221134225.png)
+![Overview](assets/20211223203126.png)
 
 ## 目录 Directories
 
@@ -23,15 +22,8 @@
 - 克隆本项目到本地，从Obsidian里作为一个库打开本项目。Clone this project and open it from Obsidian as a Vault.
 - 打开图表即可查看。Open local graph.
 
-## 参与 Participate
+## 贡献 Contribute
 
 - Fork本项目。Fork this project.
 - 在你本地修改。Edit locally.
 - 提交Pull Request。Commit and pull request.
-
-## 待办 Todo
-
-- [x] 创建项目
-- [ ] 收集资讯，包括人物、事件等
-- [ ] 发布成网页版，文件直接打开查看
-
