@@ -1,0 +1,195 @@
+---
+tags: [组织]
+---
+
+名称：
+Global Virus Network (GVN) 全球病毒网络
+
+描述：
+- https://gvn.org/gvn-academic-centers-of-excellence-affiliates/
+- 注册地 [[摩纳哥]]
+
+相关人物：
+- [[Timothy Moynahan, Esq.]] The Moynahan Law Firm, LLC Chairman, Board of Directors
+- BOARD OF DIRECTORS
+	- [[Mathew L. Evins]] Treasurer & Secretary, GVN Board Chairman, Evins Ltd.
+	- [[Daniel J. Arbess]] CEO/CIO Xerion.io–Xerion Investments LLC
+	- [[Lawrence Blatt]], PhD Global Head of Infectious Diseases, Janssen Pharmaceuticals, President and CEO, Alios Biopharma.
+	- [[Marc Bonneville]], DVM Scientific & Medical Director, Fondation Mérieux
+	- [[Liqun (Henry) Huang]] Chairman, Zhenghao Global Public Health Promotion and Innovation Center, and Chairman, Zhenghao Holding Group, China
+	- [[William Hall]] MD, PhD Professor in the School of Medicine and Medical Science at University College Dublin.
+	- [[Robert C. Gallo]], MD Director Institute of Human Virology, GVN Co-Founder and International Scientific Advisor
+	- [[Tomas Cihlar]], PhD Vice President, Virology, Gilead Sciences, Inc.
+	- [[Lan Kennedy-Davis]] Partner with RumbergerKirk, P.A.
+	- [[Yang Liu]], Ph.D. Chief Executive Officer and Chief Scientific Officer, OncoImmune
+	- [[Roscoe M. Moore, JR.]], D.V.M., Ph.D., D.Sc. President, PH RockWood Corporation, Rockville and Pretoria Former Assistant United States Surgeon General and Rear Admiral, United States Public Health Service (Retired)
+	- [[G. Richard Olds]], MD, MACP President of St. George’s University in Grenada
+	- [[Peter Palese]], PhD Horace W. Goldsmith Professor and Chair Department of Microbiology. Professor, Department of Medicine Icahn School of Medicine at Mount Sinai.
+	- [[Pierluigi Petrone]] CEO of Petrone Group.
+	- [[David Scheer]] President of Scheer & Company, Inc.
+	- [[Raymond Schinazi]], PhD, Hon DSc Professor of Pediatrics and Director Laboratory of Biochemical Pharmacology, Emory University
+	- [[邵一鸣|Yiming Shao]], MD, PhD Chief Expert on AIDS, Chinese Centre for Disease Control and Prevention Vice Chair, Chinese Microbiology Society
+	- [[Guangqi Tian]] President and Founder of Sino Invest Limited
+	- [[Pan Zheng]], M.D., Ph.D. Founder, Senior Vice President and Chief Medical Officer, OncoImmune
+- SENIOR ADVISORS
+	- [[Vint Cerf]], PhD Vice President and Chief Internet Evangelist Google
+	- [[Jose Esparza]], MD, PhD Past President of the GVN
+	- [[Glenda Gray]], MBBCh, FCPAED President, Medical Research Council of South Africa
+	- [[William Haseltine]], PhD President ACCESS Health International, Inc
+	- [[Shyam Kottilil]], MBBS, PhD Senior Advisor on India Institute of Human Virology [[美国马里兰大学|University of Maryland]] School of Medicine
+	- [[Wuyuan Lu]], PhD Senior Advisor on China Institute of Human Virology [[美国马里兰大学|University of Maryland]] School of Medicine
+	- [[Kathleen M. Neuzil]], MD, MPH, FIDSA Director, Center for Vaccine Development, [[美国马里兰大学|University of Maryland]] School of Medicine
+	- [[MV Pillai]], MD Professor, Oncology, [[Thomas Jefferson University]] Chair, Oncology, Aster MedCity
+	- [[Stanley Plotkin]], PhD Emeritus Professor [[University of Pennsylvania]]
+	- [[Nora Samaranayake]] Senior Advisor on Public Relations Institute of Human Virology [[美国马里兰大学|University of Maryland]] School of Medicine
+	- [[Carla Frances Seaga]], B.A., (Hons.), M.P.A. Executive Director UWI Development & Endowment Fund (UWIDEF)
+- China
+	- Chinese Center for Disease Control and Prevention (CCDC)
+		- Center Director: [[邵一鸣]]
+		- Co-Director: Prof. Dr. [[董小平]]
+	- [[武汉P4病毒研究所|Wuhan Institute of Virology, Chinese Academy of Sciences]]
+		- Director: Dr. [[石正丽]]
+		- Member Researchers: Drs. Peng Zhou and Xinglou Yang
+		- MengFeng Li
+		- Xiaoping Dong
+		- Jianguo Wu
+		- Longde Wang
+		- Wang Wen Xue
+		- George Fu Gao
+		- Wiezhong Yang
+		- Xiaoming Yang
+		- Runqing Jia
+		- Rongge Yang
+		- Yuelong Shu
+		- Ky Yuen
+		- J. Xu
+		- J. Chen
+		- Hong Shang
+		- Hong Tang
+		- Youchun Wang
+	- [[中国疾控中心]]
+	- [[武汉大学病毒学国家重点实验室]]
+	- [[北京工业大学]]
+	- [[北京大学]]
+	- [[中山大学]]
+	- [[复旦大学]]
+	- [[武汉大学]]
+	- [[中国疾控中心病毒预防控制与预防研究所]]
+	- [[中国疾控中心性病艾滋病预防控制中心]]
+	- [[中国医科大学]] - 沈阳
+	- [[南开大学]]
+	- [[中国科学院]]
+	- [[中国医学科学院]]
+	- [[中国国家食品药物监督管理局]]
+	- [[福建省疾病预防控制中心]]
+- United States
+	- Center Director: Dr. [[Peter Palese]]
+	- Member Researchers:
+		- Adolfo Garcia-Sastre
+		- Florian Krammer
+		- Ana Fernandez-Sesma
+		- Benhur Lee
+		- Thomas Moran
+		- Benjamin tenOever
+	- Center Director: Dr. Robert Silverman
+	- Member Researchers
+		- Jae Jung
+		- George Stark
+		- Ganes Sen
+		- Bryan Williams
+		- Michaela Gack
+		- Cornelia Bergmann
+		- Christine O’Connor
+		- Xianfang Wu
+	- Center for Virology at Icahn School of Medicine at Mount Sinai
+	- Center for Innate Immunity Research, CIIR at Lerner Research Institute at Cleveland Clinic
+	- College of Veterinary Medicine & Biological Sciences
+		- Center Director: Dr. Ramesh Akkina
+		- Member Researchers: Dr. Ken Olson
+	- Emory University
+		- Center Director: Dr. Raymond Schinazi
+		- Member Researchers: Dr.’s Silvestri, Del-Rio, and Hunter
+	- FDA/OVRR
+		- Center Director: Dr. Konstantin Chumakov
+		- Member Researchers: Vadim Agol (Moscow University), Antonio Toniolo (University of Insubria), Scott Dessain and Ramdev Puligedda (Lankenau Institute of Medical Research), George Belov (UMD), John Clements and Elizabeth Norton (Tulane U), Cara Burns and Jennifer Anstadt (CDC), Andrew Macadam and Javier Martin (NIBSC), Raul Andino (UCSF)
+	- Gladstone Institute of Virology & Immunology
+		- Center Director: Dr. Warner Greene
+		- Member Researchers: Melanie Ott, Dr. Nadia Roan and Dr. Leor Weinberger
+	- Harvard T.H. Chan School of Public Health
+		- Center Director: Dr. Pardis Sabeti
+		- Member Researchers: Brownwyn MacInnis, Daniel Park, Cameron Myhrvold, Christian Happi, Onekepe Florin, Jeremy Lubin
+	- Institute of Human Virology, University of Maryland
+		- Center Director: Dr. [[Robert C. Gallo]]
+		- Member Researchers: Alash’le Abimiku, Clement Adebamowo, Anthony Amoroso, Manhattan Charurat, Neil T. Constantine, Tony DeVico, Matthew Frieman, Shyamasundaran Kottilil, George Lewis, Wuyuan Lu, Mikulas Popovic, Marvin S. Reitz, Mohammad Sajadi, Mangalasseril Sarngadharan, Alan L. Schmaljohn, Yutaka Tagaya, Yang Liu
+		- Administration: Nora Samaranayake
+	- J. Craig Venter Institute
+		- Center Director: Dr. John I. Glass and Dr. Richard H. Scheuernmann
+		- Member Researchers: Suman Das, Dan Gibson, Richard H. Scheuernmann, Reed S. Shabman,  Sanjay Vashee
+	- Johns Hopkins Bloomberg School of Public Health
+		- Center Director: Dr. Diane Griffin
+		- Member Researchers: Janice E Clements, Andrea  Cox, George  Dimopoulos, Anna  Durbin, J. Marie Harwick, S. Diane Hayward, Gary  Ketner, Sabra  Klein, John  Nicholas, Douglas  Noris, Andrew  Pekosz, Deborah  Persaud, Stuart C. Ray, Robert  Siliciano
+	- The La Jolla Virus Network (LJVN)
+		- Center Director: Dr. Erica Ollmann Saphire, PhD and Dr. Michael B.A. Oldstone
+		- Member Researchers: Sujan Shresta, Shane Crotty, Chris Benedict, Kathryn Hastie, Brian Sullivan, Kristian Anderson, Philippe Gallay, Dennis Burton, Matt Daugherty, Elina Zuniga, Clodagh O’Shea, Frank Chisari, Hyeyrun Choe, Juan Carlos de la Torre, John Elder, Michael Farzan, Lars Hangartner, Jack Johnson, Mansun Law, Don Mosier, David Nemazee, Glenn Nemerow, James Paulson, Vijay Reddy, Hugh Rosen, Andrew Saphire, William Scief, John R. Teijaro, Timothy Tellinghuisen, Bruce Torbett, Susana Valente, Andre Ward, J. Lindsay Whitton, Ian Wilson, Richard Wyatt, Michael Zwick
+	- Tulane University School of Medicine
+		- Center Director: Robert F Garry
+		- Member Researchers: Donald  Grant, Pardis C. Sabeti
+	- University at Buffalo HIV and HCV Clinical Pharmacology Laboratory
+		- Center Director: Dr. Gene D. Morse
+		- Member Researchers: Irwin Gelman, Qing Ma, Charles Venuto, Amy Jacobs, Andrew Talal, Charles Maponga
+	- University of Wisconsin-Madison (UW-Madison) Global Health Institute
+		- Center Co-Director: Dr. Tony Goldberg
+		- Center Co-Director: Dr. Yoshihiro Kawaoka
+		- Member Researchers: Drs. Lyric Bartholomay, Kristen Bernard, James Conway, Thomas Freidrich, Paul Friesen, James Gern, Paul Lambert, Andrew Mehle, David O’Conner, Jorge Osorio, Ann Palmenberg
+	- University of Miami, Miller School of Medicine
+		- Center Director: Dr. Mario Stevenson
+		- Member Researchers: Ronald Desrosiers, David Watkins, Glen Barber, Savita Pahwa
+	- University of Michigan – Division of Infectious Diseases
+		- Center Director: Dr. Mark H. Kaplan
+		- Member Researchers: David Markovitz, David Miller, Cathy Collins, Akira Ono, Mike Imperiale, Cristiane Wobus
+	- University of Nebraska Medical Center (UNMC)
+		- Center Co-Directors: Dr. Christopher Kratochvil and Dr. Howard Gendelman
+		- Member Researcher: Dr. Kenneth Wayles, Dr. John Lowe, Dr. James Lawler, Dr. Siddappa Byrarreddy, Dr. Benson Edagwa, Dr. Adam Szlachetka, Dr. Charles Wood
+	- University of Pittsburgh Cancer Institute
+		- Center Director: Dr. Patrick S. Moore
+		- Member Researchers: Yuan Chang, Neal DeLuca, Phalguni Gupta, Shaleem Khan, Ronald Montelaro, Saumendra N Sarkar, Thomas Smithgall, John Mellors
+	- University of Rochester Medical Center
+		- Center Director: Dr. David Topham, PI, URMC
+		- Member Researchers: Steven Dewhurst, Luis Martinez-Sobrido, Anne Falsey, Edward Walsh, Brian Ward, Joshua Munger, Yiping Zhu, Toru Takimoto, Mike Keefer
+	- UTMB – Galveston National Laboratory
+		- Center Director: Dr. Scott Weaver
+		- Member Researchers: Tom Ksiazek, Alexander Bukreyev, Tom Geisbert, D. Beasley,  B. Paessler, J. Nichols, Dennis Bente, Alan Barrett, Tetsuro Ikegami, Chien-Te “Kent” Tseng, Tian Wang, Chad Mire
+	- The Wyss Institute at Harvard
+		- Center Director: Dr. Donald Ingber
+		- Member Researchers: Joanna Aizenberg, George Church, James Collins, Neel Joshi, Jennifer Lewis, Samir Mitragotri, David Mooney, Radhika Nagpal, Kevin Kit Parker, William Shih, Pamela Silver, Conor Walsh, David Walt, David Weitz, George Whitesides, Robert Woos, Peng Yin
+- France
+	- [[Institute Pasteur]]
+		- Center Directors: Dr. Marc Lecuit and Dr. Antoine Gessain
+	- [[Foundation Mérieux]]
+		- Center Director: Marc Bonneville
+- Board of Directors
+	- Timothy Moynahan, Esq., Chairman. The Moynahan Law Firm.
+	- Daniel J. Arbess, CEO/CIO Xerion.io–Xerion Investments LLC
+	- Lawrence Blatt, PhD.  Global Head of Infectious Diseases, the Janssen Pharmaceutical Companies of Johnson& Johnson and President and CEO, Alios Biopharma
+	- Marc Bonneville, DVM, Scientific & Medical Director, Fondation Mérieux
+	- Tomas Cihlar, PhD, Vice President of Virology at Gilead Sciences
+	- [[Robert C. Gallo]], MD,  Director, Institute of Human Virology at the [[美国马里兰大学|University of Maryland]] School of Medicine. The Homer & Martha Gudelsky Distinguished Professor in Medicine.
+	- [[Mathew L. Evins]], Chairman and CEO of [[Evins, Ltd]].
+	- William Hall MD, PhD, Director of the Centre for Research in Infectious Diseases (CRID) and Professor in the School of Medicine and Medical Science at University College Dublin.
+	- Lan Kennedy-Davis, Partner, RumbergerKirk, P.A.
+	- Yang Liu, PhD, Chairman, Chief Executive Officer and Chief Scientific Officer, OncoC4, Inc
+	- Roscoe Moore, DVM, PhD, DSc, President, PH RockWood Corporation; Pretoria Former Assistant United States Surgeon General; Rear Admiral, United States Public Health Service (Retired)
+	- G. Richard Olds, MD, MACP
+	- Peter Palese, PhD. Horace W. Goldsmith Professor and Chair Department of Microbiology. Professor, Department of Medicine Icahn School of Medicine at Mount Sinai.
+	- Pierluigi Petrone, CEO of Petrone Group.
+	- David I. Scheer, President, Scheer & Company, Inc
+	- Raymond F. Schinazi PhD, Hon DSc, Frances Winship Walters Professor of Pediatrics and Director,  Laboratory of Biochemical Pharmacology,  Emory University School of Medicine.
+	- Yiming Shao, MD, PhD, Chief Expert on AIDS, Chinese Centre for Disease Control and Prevention and Vice Chair, Chinese Microbiology Society
+	- [[Guangqi Tian]], President and Founder of [[Sino Invest]].
+	- Pan Zheng, MD, PhD, Chief Medical Officer, OncoC4, Inc
+
+
+事件：
+- 2015年5月17至18日，在[[北京工业大学]]主办「7th Annual Global Virus Network Meeting」，协办：[[中国疾控中心病毒预防控制与预防研究所]]、[[中国疾控中心性病艾滋病预防控制中心]]、[[中国医学科学院病原生物学研究所]]、[[中山大学]]、[[中国生物技术股份有限公司]]、[[武汉大学病毒学国家重点实验室]]、[[传染病预防控制国家重点实验室]]、[[中国医科大学]]、[[中华预防医学会]]。
+
+相关：
