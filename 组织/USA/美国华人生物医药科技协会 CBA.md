@@ -1,0 +1,140 @@
+---
+tags: [组织]
+---
+
+名称：
+美国华人生物医药科技协会 CBA
+
+描述：
+
+代表：
+- 历任会长
+	- [[余国良]]，1996-1997（创始人）
+	- [[陆阳]]，1997-1999，[[千人计划]]
+	- 鲁隼，1999-2000
+	- [[何为无]]，2000-2001，[[千人计划]]
+	- 倪健，2001-2003
+	- 校迎宪，2003-2004
+	- 段大舜，2004-2005
+	- [[杨大俊]]，2005-2006，[[千人计划]]
+	- [[张丹]]，2006-2007，[[千人计划]]
+	- [[李玉玲]]，2007-2008
+	- 孙霖，2008-2009
+	- 翟一帆，2009-2010
+	- 巴素娟，2010-2011
+	- 龙志峰，2011-2012
+	- [[赵玉琪]]，2012-2013
+	- 陈平，2013-2014
+	- [[魏紫萍]]，2014-2015
+	- [[巢守柏]]，2015-2016
+	- 姜绪荣，2016-2017
+	- [[沈栋]]，2017-2018
+	- [[李力]]，2018-2019
+	- [[刑传华]]，2019-2020
+	- [[谢东]]，理事会成员，[[千人计划]]
+	- 杨培
+	- 曹守柏
+	- [[陆航]]
+	- 加拿大分会会长王志强博士
+- Meet CBA Executive Committee & Officers (2020 – 2021)
+	- Hang Lu, M.D. President Dr. Hang Lu is the President of the Chinese Biopharmaceutical Association (CBA) and a member of the Board of Directors. Dr. Lu obtained his medical degree from Zhejiang University. He completed post-doctoral research training at the University of British Columbia with a sponsorship from the Canadian Institutes of Health Research. Dr. Lu has extensive experience in biologics development as well as CDMO after working at Emergent BioSolutions and Merck for over twenty years.  Dr. Lu contributed to the development of several traditional and new generation vaccines from the preclinical, phase 1, phase 3 to post approval submissions leading to regulatory approvals in the USA. Dr. Hang Lu is the founder and CEO of NextTranslate Biopharmaceutical Co.. Previously he served as a director of Development Services, CDMO at Emergent BioSolutions, a NYSE-listed public global life sciences company seeking to protect and enhance life by focusing on providing specialty products for civilian and military populations.
+	- DAZHI LAI, PH.D. Immediate Past President Dr. Dazhi (Alex) Lai is the Immediate Past President of the Chinese Biopharmaceutical Association (CBA). He graduated from Nankai University and obtained his Ph.D. from the Academy of Military Medical Sciences of China. After postdoctoral training at Yale Medical School and [[美国国立卫生研究院 NIH]], Dr. Lai founded SPEED Biosystems, a global biomedical research solution provider to academia, industry, and government agencies, and served as the company’s CEO until now. Dr. Lai has been serving as a member of the Board of Directors of CBA for the past 7 years and played an important role in the organization.
+	- SONG WU, PH.D. President-Elect Dr. Song Wu is the President-Elect of the Chinese Biopharmaceutical Association (CBA) and a member of the Board of Directors. Dr. Wu obtained his PhD degree from National University of Singapore. Dr. Wu has worked more than 16 years in translational science and translational medicine in the pharmaceutical industry. He has strong expertise in signaling pathways and immuno-oncology/oncology drug development. He is specialized in applied data science, involving deep learning/AI, data-mining, multivariate statistics and scientific computing techniques for advanced image analysis (IHC, H&E and radiomics) and genomics/proteomics platforms. Dr. Wu is currently the head of translational medicine at Hansoh Bio. Dr. Wu worked for AstraZeneca for 6 years and Eli-Lilly for 10 years, where he focused on bioinformatics, data science, genomics and biomarker development involved in a broad range of RTK, IO and ADC projects, including Abemaciclib, Durvalumab, Oleclumab and Tremelimumab.
+- Executive Officers
+	- Yali Fu, Ph.D. General Secretary
+	- Feiyan Jin, Ph.D. Treasurer
+	- Yuling Wu Treasurer
+	- Steve Chen, J.D., Ph.D. Director General Counsel
+- Sponsor Relationship
+	- Song Wu, Ph.D. Vice President
+	- Ning Zang Director
+	- Qing Li Director
+- Membership
+	- Judy Yu, Ph.D. Vice President
+	- Hao Li, Ph.D. Vice President
+	- Qing Li, Ph.D. Vice President
+	- Weiyi Liu Director
+	- Jason Zhang Director
+	- Xinquan Liu Director
+- Project Management
+	- Yixing Han, Ph.D. Vice President
+	- John Li, Ph.D. Vice President
+- Workshops
+	- Yan Guo Vice President
+	- Julia Luan Director
+	- George Chang Director
+	- Helen Mao Director
+	- Xiaobin Lu, Ph.D. Director
+- Public Relations
+	- Julia Luan Vice President
+	- Bei Ma Director
+	- Qiao Yu Director
+	- Hang Lu, M.D. Director
+- Digital Promotion
+	- Hao Li, Ph.D. Vice President
+	- Jason Zhang Director
+	- Jun Zhao Director
+	- Xinquan Liu Director
+- Science and Technology
+	- Hang Lu, M.D. Vice President
+	- Julie Zhang Director
+	- Qing Li Director
+	- You Li Director
+	- Qingfeng Liu Director
+	- Judy Yu, Ph.D Director
+- Logistics
+	- Jack Che Vice President
+	- Xiaobin Lu Vice President
+- Marketing and Media
+	- Angela Zeng Vice President
+	- Valerie Peng Director
+	- Sam Wang Director
+	- Amy Tan Director
+	- Julie Zhang Director
+- U.S. and Canada Chapters
+	- Kevin Li, Ph.D. Vice President
+	- Jincheng Wu Director
+- China Chapters
+	- Helen Mao Vice President
+	- Monika Zhang Vice President
+	- Ping Zhang Vice President
+	- Yingxian Xiao Vice President
+- Young Scholars
+	- Yiquan Wu Vice President
+	- Wenlong Wang Director
+- Strategic Advisors
+	- Dong Shen, M.D., Ph.D.
+	- Xu-rong Jiang, M.D., Ph.D.
+	- Shoubai Chao, Ph.D.
+	- Yingxian Xiao, Ph.D.
+	- Ziping Wei
+	- Ping Chen
+- Scientific Advisory Board
+	- Kai-Xian Chen, Ph.D.,  Member of Chinese Academy of Sciences Professor， Shanghai Institute of Materia Medica, Chinese Academy of Sciences VP, Chinese Pharmaceutical Association Executive Director, China Chemical Society
+	- Jake Liang, M.D. Member of US National Academy of Sciences(NAS) Chief of Liver Diseases Branch & Deputy Director of Translational Research, National Institute of Diabetes and Digestive and Kidney Diseases, [[美国国立卫生研究院 NIH]] 
+	- Cun-Yu Wang, DDS, Ph.D.,  Member of The Institute of Medicine of National Academies of the United States, Foreign Member of the Chinese Academy of Engineering No-Hee Park Endowed Chair in Dentistry, Chair of the Division of Oral Biology and Medicine Professor Department of Bioengineering, UCLA
+	- Wei Yang, Ph.D. Member of US National Academy of Sciences (NAS) Member of American Academy of Arts and Sciences (AAAS) [[美国国立卫生研究院 NIH]] Distinguished Investigator
+	- Guo-Ping Zhao, Ph.D., Member of Chinese Academy of Sciences Professor and Executive Director of Chinese National Human Genome Center at Shanghai (CHGCS) Vice President and Director of National Engineering Center for BioChip at Shanghai (SHBC) Professor and Head of Department of Microbiology and Microbial Engineering in Fudan University School of Life Science Professor at the Shanghai Research Center of Biotechnology (SRCB) of Shanghai Institutes for Biological Sciences (SIBS), Chinese Academy of Sciences (CAS)
+
+事件：
+- CBA在一周内就于2月19日晚上推出CBA抗击新型冠状病毒知识系列线上讲座第一讲 “新型冠状病毒解读和流行病防控战略”。两位资深主讲人[[郑志明]]和[[符海青]]。CBA抗击新型冠状病毒知识系列线上讲座第二讲在 2 月 26 日 周三晚上 8:30成功举行。演讲嘉宾美国圣诺制药公司创始人, 总裁兼首席科学家[[陆阳]]博士和康希诺生物股份公司首席运营官[[巢守柏]]博士。
+- 第22届年会于6月24日晚和6月25日全天在马里兰[[阿斯利康]]举行
+	- 特邀嘉宾[[阿斯利康]]执行副总裁兼MedImmune负责人Bahija Jallal博士将为大会致辞
+	- 年会特邀的重磅主题演讲者是克雷格.温特（J. Craig Venter）院士 – 他是世界精准医疗之父 - [[人类基因组计划]]研究的先驱者, 同时是美国国家[[人类基因组计划]]领导人以及人类长寿公司的创始人
+	- 还特意邀请到了中美政府监管FDA和CFDA的一线官员Robert Temple （美国FDA药品评审中心副主任），Lawrence Yu （美国FDA 药品评审中心药品质量办公室副主任）和翁新愚（[[中国国家食品药物监督管理局]]国际事务办公室主任）
+	- [[陆阳]]
+	- [[何为无]]博士现任美国傲锐东源科技公司(Origene)董事长兼首席执行官
+	- [[杨大俊]]博士做为江苏亚盛医药创始人和董事长, 首席执行官
+	- [[张丹]]博士
+	- [[谢东]]博士
+	- 李宁 赛诺飞全球监管副总裁
+	- 复宏汉霖
+	- 陈智胜博士 药明生物首席执行官
+	- [[詹启敏]]博士
+	- [[赵国屏]]博士
+	- Steve Tuner博士 美国太平洋生物联合创始人, 首席技术官
+	- [[何亦武]]博士
+	- Henry Hsu博士Allysta Pharmaceuticals创始人兼董事长
+- 2019年11月22日上午9时，由中央海外高层次人才引进工作小组指导，[[湖北省人民政府]]、国务院[[侨务办公室]]、武汉市人民政府共同主办；湖北省委[[统战部]]（湖北省[[侨务办公室]]）、湖北省药品监督管理局、武汉东湖新技术开发区管委会、武汉国家生物产业基地建设管理办公室共同承办；百创汇国际生物科技(武汉)股份有限公司、湖北省医药行业协会、[[美国华人生物医药科技协会 CBA]]共同协办，2019华侨华人创业发展洽谈会国际生物专场在武汉东湖国际会议中心隆重开幕。
+
+其他：
