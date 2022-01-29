@@ -27,3 +27,6 @@
 - Fork本项目。Fork this project.
 - 在你本地修改。Edit locally.
 - 提交Pull Request。Commit and pull request.
+
+## Resources
+- shuzirc.com

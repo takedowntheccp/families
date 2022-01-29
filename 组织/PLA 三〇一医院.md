@@ -3,7 +3,7 @@ tags: [组织]
 ---
 
 名称：
-优脑银河公司 Neural Galaxy
+PLA 三〇一医院
 
 描述：
 
