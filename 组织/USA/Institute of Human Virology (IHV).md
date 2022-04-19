@@ -9,7 +9,7 @@ Institute of Human Virology (IHV)
 IHV is an institute of the [[美国马里兰大学|University of Maryland]] School of Medicine
 
 代表：
-- [[Wuyuan Lu|卢武元]]博士，传染病和病原体司司长
+- [[陆五元]]博士，传染病和病原体司司长
 - [[Yang Liu|刘杨]]博士，免疫治疗部主任
 - [[Pan Zheng|潘政]]博士，免疫治疗部
 - [[苏立山]]博士，病毒学、发病机制和癌症部主任
